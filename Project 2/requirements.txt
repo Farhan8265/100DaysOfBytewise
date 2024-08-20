@@ -1,4 +1,4 @@
-streamlit
-pandas
-requests
-gdown
+streamlit==1.37.1
+pandas==2.1.0
+requests==2.28.1
+gdown==4.4.0
